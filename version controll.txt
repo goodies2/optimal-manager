@@ -7,7 +7,22 @@
       </g>
     </svg>
     </div>
+    
     <div class="arrow arrow--bottom">
+        <svg xmlns="http://www.w3.or2g/2000/svg" width="31.35" height="649.9" overflow="visible">
+      <style>
+        .geo-arrow {
+          fill: none;
+          stroke: #fff;
+          stroke-width: 2;
+          stroke-miterlimit: 10<div class="arrow arrow--bottom">
+        <svg xmlns="http://www.w3.or2g/2000/svg" width="31.35" height="649.9" overflow="visible">
+      <style>
+        .geo-arrow {
+          fill: none;
+          stroke: #fff;
+          stroke-width: 2;
+          stroke-miterlimit: 10<div class="arrow arrow--bottom">
         <svg xmlns="http://www.w3.or2g/2000/svg" width="31.35" height="649.9" overflow="visible">
       <style>
         .geo-arrow {
